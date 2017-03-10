@@ -1,3 +1,5 @@
+/// <reference path="../node_modules/phaser/typescript/phaser.d.ts" />
+
 import Boot from 'states/Boot';
 import Preload from 'states/Preload';
 import GameTitle from 'states/GameTitle';

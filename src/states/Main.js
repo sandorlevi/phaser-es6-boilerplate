@@ -1,3 +1,5 @@
+/// <reference path="../../node_modules/phaser/typescript/phaser.d.ts" />
+
 import ExampleObject from 'objects/ExampleObject';
 
 class Main extends Phaser.State {

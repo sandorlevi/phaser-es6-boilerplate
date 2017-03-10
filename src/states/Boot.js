@@ -1,3 +1,6 @@
+/// <reference path="../../node_modules/phaser/typescript/phaser.d.ts" />
+
+
 class Boot extends Phaser.State {
 
 	preload() {
@@ -12,3 +15,4 @@ class Boot extends Phaser.State {
 }
 
 export default Boot;
+

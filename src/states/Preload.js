@@ -1,5 +1,3 @@
-/// <reference path="../../node_modules/phaser/typescript/phaser.d.ts" />
-
 class Preload extends Phaser.State {
 
 	preload() {
